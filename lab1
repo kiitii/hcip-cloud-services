@@ -1,0 +1,4 @@
+This is for lab1
+# yum install nginx
+# yum remove nginx
+# vim /etc/nginx/nginx.conf
